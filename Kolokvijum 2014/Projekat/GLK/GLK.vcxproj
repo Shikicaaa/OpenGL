@@ -99,6 +99,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DImage.h" />
     <ClInclude Include="GLK.h" />
     <ClInclude Include="GLKDoc.h" />
     <ClInclude Include="GLKView.h" />
@@ -109,6 +110,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="DImage.cpp" />
     <ClCompile Include="GLK.cpp" />
     <ClCompile Include="GLKDoc.cpp" />
     <ClCompile Include="GLKView.cpp" />
